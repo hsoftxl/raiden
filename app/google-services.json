@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076320072877",
+    "project_id": "skywar-bcc28",
+    "storage_bucket": "skywar-bcc28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076320072877:android:a51d8a8e1c38f3be2a0224",
+        "android_client_info": {
+          "package_name": "com.app.skywar2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076320072877-klmst92bo7ohuf5gqh1noki5kta0ss3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnqf3kKVEW0WIyufKdzMpioNG-TkjANaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076320072877-klmst92bo7ohuf5gqh1noki5kta0ss3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

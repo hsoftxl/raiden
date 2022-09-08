@@ -1,0 +1,77 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.Raiden" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="android-20" />
+        <iOS_Target Value="Raiden-mobile" />
+        <iOS_BundleID Value="" />
+        <Platform Value="None" />
+        <RunPlatform Value="None" />
+        <FrameworkVersion Value="cocos2d-x-3.8" />
+        <IsDebugKeystore Value="True" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="BagListItem.csd" />
+          <FilePathData Path="BeautyGuide.csd" />
+          <FilePathData Path="Buyplane.csd" />
+          <FilePathData Path="Dialog.csd" />
+          <FilePathData Path="Daily.csd" />
+          <FilePathData Path="GameUI.csd" />
+          <FilePathData Path="GameUI_Dialogbox.csd" />
+          <FilePathData Path="GameUI_Txt.csd" />
+          <FilePathData Path="GeneralDialog.csd" />
+          <FilePathData Path="GeneralDialogOneBtn.csd" />
+          <FilePathData Path="GiftAircraft5.csd" />
+          <FilePathData Path="GiftAircraft6.csd" />
+          <FilePathData Path="GiftAircraftPkg6.csd" />
+          <FilePathData Path="GiftBigPkg.csd" />
+          <FilePathData Path="GiftDiamond.csd" />
+          <FilePathData Path="GiftHugBigPkg.csd" />
+          <FilePathData Path="GiftHugPkg.csd" />
+          <FilePathData Path="GiftKiller.csd" />
+          <FilePathData Path="GiftLife.csd" />
+          <FilePathData Path="GiftLifeDuo.csd" />
+          <FilePathData Path="GiftLifePkg.csd" />
+          <FilePathData Path="GiftMidPkg.csd" />
+          <FilePathData Path="GiftNewPkg.csd" />
+          <FilePathData Path="GiftShield.csd" />
+          <FilePathData Path="GiftVip.csd" />
+          <FilePathData Path="Loading.csd" />
+          <FilePathData Path="MainUI.csd" />
+          <FilePathData Path="MainUI_Gift.csd" />
+          <FilePathData Path="Mission.csd" />
+          <FilePathData Path="Pause.csd" />
+          <FilePathData Path="PieceGot.csd" />
+          <FilePathData Path="Relife.csd" />
+          <FilePathData Path="Reward.csd" />
+          <FilePathData Path="RewardItem.csd" />
+          <FilePathData Path="Settle.csd" />
+          <FilePathData Path="SettleRapid.csd" />
+          <FilePathData Path="Setup.csd" />
+          <FilePathData Path="Shop.csd" />
+          <FilePathData Path="Start.csd" />
+          <FilePathData Path="Strengthen.csd" />
+          <FilePathData Path="Vip.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="Vip.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

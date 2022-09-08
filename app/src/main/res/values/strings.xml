@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">雷霆空战2021-雷电出击</string>
+    <string name="sf_class_name">org.cocos2dx.cpp.AppActivity</string>
+    <string name="dlg_pay_waiting">正在加载...</string>
+    <string name="ad_loading">广告正在加载中,请稍后再试</string>
+    <string name="ad_cancel">关闭广告无法获取奖励</string>
+    <string name="ad_error">获取广告失败</string>
+    <string name="ad_reward">奖励已发放</string>
+</resources>
